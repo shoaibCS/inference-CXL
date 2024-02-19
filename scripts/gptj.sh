@@ -97,6 +97,7 @@ unzip checkpoint.zip -d model/
 echo "8"
 elif [ "$1" -eq 2 ]; then
 
+cp ../data/cnn_eval.json ../inference/language/gpt-j/data/
 cd ../language/gpt-j/
 python main.py --scenario=Offline --model-path=./model/gpt-j/checkpoint-final/ --dataset-path=./data/cnn_eval.json --max_examples=1
 
