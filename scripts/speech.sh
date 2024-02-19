@@ -27,7 +27,7 @@ set -u
 
 # stage -1: install dependencies
 
-conda env create --force -v --file environment.yml
+#conda env create --force -v --file environment.yml
 
 set +u
 source "$(conda info --base)/etc/profile.d/conda.sh"
@@ -43,13 +43,13 @@ wget https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2.tar.gz -O 
 pip3 install pybind11
 
 pwd
-cd ../inference/
 
+cd ../
+echo "-----------"
 abc=$(git rev-parse --show-toplevel)
 
 echo "$abc"
 (cd $(git rev-parse --show-toplevel)/loadgen; python setup.py install)
-
 
 export PATH="$install_dir/bin/:$PATH"
 
@@ -58,25 +58,31 @@ conda activate ml
 set -u
 
 # stage 0: download model. Check checksum to skip?
-wget https://zenodo.org/record/3662521/files/DistributedDataParallel_1576581068.9962234-epoch-100.pt?download=1 -O $work_dir/rnnt.pt
+pwd
+echo "!!!!!!"
+echo "------"
+wget https://zenodo.org/record/3662521/files/DistributedDataParallel_1576581068.9962234-epoch-100.pt?download=1 -O speech_recognition/rnnt/speech/rnnt.pt
 
+echo "abcccc"
+pwd
 
 # stage 1: download data. This will hae a non-zero exit code if the
 # checksum is incorrect.
-cd ../speech_recognition/rnnt
+cd speech_recognition/rnnt
 
-python pytorch/utils/download_librispeech.py pytorch/utils/librispeech-inference.csv $librispeech_download_dir -e $local_data_dir
+python pytorch/utils/download_librispeech.py pytorch/utils/librispeech-inference.csv speech/local_data/LibriSpeech -e speech/local_data
 
 
 
-python pytorch/utils/convert_librispeech.py --input_dir $librispeech_download_dir/dev-clean --dest_dir $local_data_dir/dev-clean-wav --output_json $local_data_dir/dev-clean-wav.json
+python pytorch/utils/convert_librispeech.py --input_dir speech/local_data/LibriSpeech/dev-clean --dest_dir speech/local_data/dev-clean-wav --output_json speech/local_data/dev-clean-wav.json
 
 elif [ "$1" -eq 2 ]; then
-
+cp ../data/set2/set_1.json ../speech_recognition/rnnt/speech/local_data/dev-clean-wav.json
 cd ../speech_recognition/rnnt
 
 conda activate ml
-python run.py --backend pytorch --dataset_dir ./speech/local_data --manifest ./speech/local_data/dev-clean-wav.json --pytorch_config_toml pytorch/configs/rnnt.toml --pytorch_checkpoint ./speech/rnnt.pt --scenario Offline --backend pytorch --log_dir log_dir=./speech/Offline_pytorchyyyy22
+
+$CONDA_PREFIX/envs/ml/bin/python run.py --backend pytorch --dataset_dir ./speech/local_data --manifest ./speech/local_data/dev-clean-wav.json --pytorch_config_toml pytorch/configs/rnnt.toml --pytorch_checkpoint ./speech/rnnt.pt --scenario Offline --backend pytorch --log_dir log_dir=./speech/Offline_pytorchyyyy22
 
 else
 	echo "wrong args"
