@@ -21,11 +21,14 @@ set -u
 echo "1"
 
 #conda create -n llm python=3.9 -y
-conda activate llm
 
 if [ "$1" -eq 1 ]; then
 
+
 echo "11111"
+
+conda create -n llmm python=3.9 -y
+conda activate llmm
 
 conda install mkl mkl-include -y
 conda install gperftools jemalloc==5.2.1 -c conda-forge -y
@@ -74,14 +77,19 @@ echo "4"
 pip3 install pybind11
 cd ../loadgen
 CFLAGS="-std=c++14 -O3" python setup.py bdist_wheel
-cd ..; pip3 install --force-reinstall loadgen/dist/mlperf_loadgen-4.0-cp312-cp312-linux_x86_64.whl
+#cd ..; pip3 install --force-reinstall loadgen/dist/mlperf_loadgen-4.0-cp39-cp39-linux_x86_64.whl
+#cd ..; pip3 install --force-reinstall loadgen/dist/mlperf_loadgen-4.0-cp312-cp312-linux_x86_64.whl
 
-#cd ..; pip3 install --force-reinstall loadgen/dist/`ls -r loadgen/dist/ | head -n1` ; cd -
-cd loadgen
+cd ..; pip3 install --force-reinstall loadgen/dist/`ls -r loadgen/dist/ | head -n1` ; cd -
+ls
+pwd
+echo "-----------------------------------------------------------------------------------------------------"
+#cd loadgen
 cp ../mlperf.conf ../../
-cd ../..
+cd ..
 echo "5"
-cd ../language/gpt-j
+pwd
+cd language/gpt-j
 python download_cnndm.py
 
 echo "6"
@@ -96,8 +104,8 @@ unzip checkpoint.zip -d model/
 
 echo "8"
 elif [ "$1" -eq 2 ]; then
-
-cp ../data/cnn_eval.json ../inference/language/gpt-j/data/
+conda activate llm
+cp ../data/cnn_eval.json ../language/gpt-j/data/
 cd ../language/gpt-j/
 python main.py --scenario=Offline --model-path=./model/gpt-j/checkpoint-final/ --dataset-path=./data/cnn_eval.json --max_examples=1
 
