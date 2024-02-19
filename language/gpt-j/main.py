@@ -79,6 +79,8 @@ def main():
     log_settings = lg.LogSettings()
     log_settings.log_output = log_output_settings
     log_settings.enable_trace = True
+    settings.min_query_count = 10
+    settings.min_duration_ms = 1
 
     lg.StartTestWithLogSettings(sut.sut, sut.qsl, settings, log_settings, args.audit_conf)
     print("Test Done!")
