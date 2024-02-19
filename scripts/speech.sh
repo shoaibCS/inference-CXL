@@ -27,7 +27,7 @@ set -u
 
 # stage -1: install dependencies
 
-#conda env create --force -v --file environment.yml
+conda env create --force -v --file environment.yml
 
 set +u
 source "$(conda info --base)/etc/profile.d/conda.sh"
@@ -88,12 +88,3 @@ else
 	echo "wrong args"
 fi
 
-#python run.py --backend pytorch \
- #              --dataset_dir $local_data_dir \
-  #             --manifest $local_data_dir/dev-clean-wav.json \
-   #            --pytorch_config_toml pytorch/configs/rnnt.toml \
-    #           --pytorch_checkpoint $work_dir/rnnt.pt \
-     #          --scenario ${scenario} \
-      #         --backend ${backend} \
-       #        --log_dir ${log_dir} \
-        #       ${accuracy} 
