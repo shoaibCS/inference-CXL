@@ -44,7 +44,7 @@ sudo apt-get install python3-pip -y
 pip3 install setuptools_rust
 sudo apt-get install build-essential -y
 pip3 install Cython --user
-conda install pyarrow
+conda install pyarrow -y
 #pip3 install pyarrow>=6.0.0
 #sudo apt-get install build-essential
 
