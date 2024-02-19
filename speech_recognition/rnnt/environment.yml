@@ -122,5 +122,4 @@ dependencies:
     - werkzeug
     - wrapt
     - zipp
-prefix: /users/shoaibCS/mnt/miniconda3/envs/ml
 
