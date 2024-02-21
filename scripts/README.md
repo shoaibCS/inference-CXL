@@ -22,4 +22,10 @@ To run speech benchmark, perform following steps
 - Run benchmark with this command 'bash speech.sh 2'
 
 
+## Medical imaging
+
+To run medical imaging benchmark, perform following steps
+
+- Install libraries with this command 'bash medical.sh 1'
+- Run benchmark with this command 'bash medical.sh 2'
 
