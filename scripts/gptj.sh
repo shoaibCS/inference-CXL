@@ -1,8 +1,8 @@
 
 
-sudo rm -rf  ~/mnt/tmpd && mkdir ~/mnt/tmpd
+sudo rm -rf  ~/tmpd && mkdir ~/tmpd
 
-export TMPDIR=/users/shoaibCS/mnt/tmpd
+export TMPDIR=/root/tmpd
 set -euo pipefail
 
 
@@ -104,8 +104,8 @@ unzip checkpoint.zip -d model/
 
 echo "8"
 elif [ "$1" -eq 2 ]; then
-conda activate llm
-cp ../data/cnn_eval.json ../language/gpt-j/data/
+conda activate llmm
+cp ../data/cnn_eval_one.json ../language/gpt-j/data/cnn_eval.json
 cd ../language/gpt-j/
 python main.py --scenario=Offline --model-path=./model/gpt-j/checkpoint-final/ --dataset-path=./data/cnn_eval.json --max_examples=1
 

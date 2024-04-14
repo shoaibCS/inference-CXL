@@ -49,7 +49,8 @@ set -u
 
 cp ../data/bert_mlperf.conf ../language/bert/build/mlperf.conf
 
-cd ../language/bert && $CONDA_PREFIX/bin/python3 run.py --backend=tf --scenario=Offline --max_examples=1
+#cd ../language/bert && $CONDA_PREFIX/bin/python3 run.py --backend=tf --scenario=Offline --max_examples=20
+cd ../language/bert && $CONDA_PREFIX/bin/python3 run.py --backend=tf --scenario=Offline
 
 
 else
