@@ -33,7 +33,7 @@ elif [ "$1" -eq 2 ]; then
 
 set +u
 source /home/shoaib/conda/etc/profile.d/conda.sh
-conda activate llmm
+conda activate llm
 set -u
 
 

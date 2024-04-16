@@ -460,6 +460,7 @@ def add_results(final_results, name, result_dict, result_list, took, show_accura
 
 
 def main():
+    start_time = time.time()
     global last_timeing
     args = get_args()
 
@@ -593,7 +594,9 @@ def main():
     performance_sample_count = args.performance_sample_count if args.performance_sample_count else min(count, 500)
     sut = lg.ConstructSUT(issue_queries, flush_queries)
     qsl = lg.ConstructQSL(count, performance_sample_count, ds.load_query_samples, ds.unload_query_samples)
-
+    end_time = time.time()
+    print("\n**************\n\n")
+    print(end_time - start_time)
     log.info("starting {}".format(scenario))
     result_dict = {"good": 0, "total": 0, "scenario": str(scenario)}
     runner.start_run(result_dict, args.accuracy)

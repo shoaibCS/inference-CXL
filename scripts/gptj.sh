@@ -1,13 +1,13 @@
 
 
-sudo rm -rf  ~/tmpd && mkdir ~/tmpd
+sudo rm -rf  /home/shoaib/inference-CXL/scripts/tmpd && mkdir /home/shoaib/inference-CXL/scripts/tmpd
 
-export TMPDIR=/root/tmpd
+export TMPDIR=/home/shoaib/inference-CXL/scripts/tmpd
 set -euo pipefail
 
 
 set +u
-source "$($CONDA_EXE info --base)/etc/profile.d/conda.sh"
+source /home/shoaib/conda/etc/profile.d/conda.sh
 set -u
 
 # stage -1: install dependencies
@@ -15,7 +15,7 @@ set -u
 #conda env create --force -v --file environment.yml
 
 set +u
-source "$(conda info --base)/etc/profile.d/conda.sh"
+source /home/shoaib/conda/etc/profile.d/conda.sh
 #conda activate mlperf
 set -u
 echo "1"
@@ -105,7 +105,7 @@ unzip checkpoint.zip -d model/
 echo "8"
 elif [ "$1" -eq 2 ]; then
 conda activate llmm
-cp ../data/cnn_eval_one.json ../language/gpt-j/data/cnn_eval.json
+cp ../data/cnn_eval_two.json ../language/gpt-j/data/cnn_eval.json
 cd ../language/gpt-j/
 python main.py --scenario=Offline --model-path=./model/gpt-j/checkpoint-final/ --dataset-path=./data/cnn_eval.json --max_examples=1
 

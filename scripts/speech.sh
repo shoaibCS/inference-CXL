@@ -4,8 +4,10 @@
 #export stage="-1"
 if [ "$1" -eq 1 ]; then
 
-sudo rm -rf ./tmpd && mkdir ./tmpd
-export TMPDIR=/users/shoaibCS/mnt/tmpd
+sudo rm -rf  /home/shoaib/inference-CXL/scripts/tmpd && mkdir /home/shoaib/inference-CXL/scripts/tmpd
+
+export TMPDIR=/home/shoaib/inference-CXL/scripts/tmpd
+
 set -euo pipefail
 
 
@@ -22,7 +24,7 @@ mkdir -p $install_dir
 install_dir=$(readlink -f $install_dir)
 
 set +u
-source "$($CONDA_EXE info --base)/etc/profile.d/conda.sh"
+source /home/shoaib/conda/etc/profile.d/conda.sh
 set -u
 
 # stage -1: install dependencies
@@ -30,7 +32,7 @@ set -u
 conda env create --force -v --file environment.yml
 
 set +u
-source "$(conda info --base)/etc/profile.d/conda.sh"
+source /home/shoaib/conda/etc/profile.d/conda.sh
 conda activate ml
 set -u
 
@@ -77,12 +79,12 @@ python pytorch/utils/download_librispeech.py pytorch/utils/librispeech-inference
 python pytorch/utils/convert_librispeech.py --input_dir speech/local_data/LibriSpeech/dev-clean --dest_dir speech/local_data/dev-clean-wav --output_json speech/local_data/dev-clean-wav.json
 
 elif [ "$1" -eq 2 ]; then
-cp ../data/set2/set_1.json ../speech_recognition/rnnt/speech/local_data/dev-clean-wav.json
+cp ../data/set2/set_2.json ../speech_recognition/rnnt/speech/local_data/dev-clean-wav.json
 cd ../speech_recognition/rnnt
 
 conda activate ml
 
-$CONDA_PREFIX/envs/ml/bin/python run.py --backend pytorch --dataset_dir ./speech/local_data --manifest ./speech/local_data/dev-clean-wav.json --pytorch_config_toml pytorch/configs/rnnt.toml --pytorch_checkpoint ./speech/rnnt.pt --scenario Offline --backend pytorch --log_dir log_dir=./speech/Offline_pytorchyyyy22
+/home/shoaib/conda/envs/ml/bin/python run.py --backend pytorch --dataset_dir ./speech/local_data --manifest ./speech/local_data/dev-clean-wav.json --pytorch_config_toml pytorch/configs/rnnt.toml --pytorch_checkpoint ./speech/rnnt.pt --scenario Offline --backend pytorch --log_dir log_dir=./speech/Offline_pytorchyyyy22
 
 else
 	echo "wrong args"

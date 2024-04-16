@@ -1,5 +1,6 @@
 #!/bin/bash
-
+export MODEL_DIR=/home/shoaib/inference-CXL/vision/classification_and_detection/model
+export DATA_DIR=/home/shoaib/inference-CXL/vision/classification_and_detection/data
 source ./run_common.sh
 
 common_opt="--mlperf_conf ../../mlperf.conf"
@@ -19,7 +20,7 @@ while [ -n "$1" ]; do
     shift
 done
 
-cmd="python3 python/main.py --profile $profile $common_opt --model \"$model_path\" $dataset \
+cmd="python3 python/main.py --profile $profile $common_opt --scenario Offline --model \"$model_path\" $dataset \
     --output \"$OUTPUT_DIR\" $EXTRA_OPS ${ARGS}"
 echo $cmd
 eval $cmd
