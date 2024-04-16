@@ -1,0 +1,2064 @@
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 183.4	
+       1	 204.7	 135.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149866.2	94589.5	
+       1	94354.3	149724.4	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 236.4	
+       1	 260.3	 197.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149747.2	37951.2	
+       1	38249.9	89418.5	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 183.4	
+       1	 204.7	 135.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149855.7	94568.4	
+       1	94379.0	149732.0	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 236.5	
+       1	 260.4	 197.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149727.4	37944.8	
+       1	38255.6	89398.6	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 183.4	
+       1	 204.6	 135.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149834.5	94586.8	
+       1	94377.4	149726.8	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 183.4	
+       1	 204.7	 135.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149842.0	94592.1	
+       1	94357.5	149727.2	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 236.4	
+       1	 260.4	 197.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149774.8	37943.4	
+       1	38252.2	89432.9	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 236.4	
+       1	 260.4	 197.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149757.4	37945.4	
+       1	38253.6	89413.7	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.4	 183.4	
+       1	 205.1	 135.3	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149597.9	94547.8	
+       1	94348.1	149607.7	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.4	 236.5	
+       1	 260.4	 197.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149611.6	37933.1	
+       1	38249.0	89443.8	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 183.4	
+       1	 204.5	 135.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149703.9	94577.1	
+       1	94360.5	149711.1	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.4	 236.5	
+       1	 260.4	 197.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149600.6	37932.8	
+       1	38244.3	89416.1	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 183.4	
+       1	 204.6	 135.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149715.5	94573.2	
+       1	94361.7	149690.9	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.4	 236.5	
+       1	 260.4	 197.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149593.2	37936.3	
+       1	38247.6	89399.6	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.3	 183.4	
+       1	 204.5	 135.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149692.9	94576.2	
+       1	94351.5	149718.8	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.4	 236.5	
+       1	 260.4	 197.2	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149637.1	37932.7	
+       1	38247.4	89420.0	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 115.4	 236.5	
+       1	 260.3	 197.2	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149612.9	37930.1	
+       1	38242.0	89433.3	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.4	 182.8	
+       1	 188.5	 115.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	151040.5	94693.8	
+       1	94437.8	150886.6	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.1	 233.0	
+       1	 268.8	 194.2	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149812.8	37932.2	
+       1	38253.7	89409.7	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 182.8	
+       1	 210.6	 136.8	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149821.7	94647.4	
+       1	94379.0	149713.5	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 233.0	
+       1	 268.9	 194.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149861.7	37943.0	
+       1	38261.0	89400.6	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 182.8	
+       1	 210.6	 136.8	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149801.8	94595.0	
+       1	94332.8	149634.9	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.4	 233.0	
+       1	 269.0	 194.2	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149694.6	37940.5	
+       1	38234.4	89215.6	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 183.1	
+       1	 210.6	 136.8	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149707.2	94543.8	
+       1	94298.1	149660.0	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 233.4	
+       1	 268.8	 194.3	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	148994.0	37747.3	
+       1	38186.5	89268.0	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 182.7	
+       1	 210.6	 136.8	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149883.2	94641.3	
+       1	94365.3	149811.8	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 233.0	
+       1	 268.9	 194.3	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149792.2	37945.2	
+       1	38253.8	89380.8	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 182.8	
+       1	 210.6	 136.8	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149932.2	94664.7	
+       1	94391.1	149784.1	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 117.2	 233.0	
+       1	 268.9	 194.1	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149833.2	37933.1	
+       1	38259.2	89423.5	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 185.7	
+       1	 184.9	 115.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	151139.9	94696.7	
+       1	94780.6	151364.0	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149940.6	37949.0	
+       1	38254.3	89390.6	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 185.7	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	150018.8	94665.3	
+       1	94694.8	150162.4	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.2	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149908.2	37944.2	
+       1	38257.6	89422.5	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 185.7	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	150040.9	94666.8	
+       1	94701.6	150235.5	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149891.0	37950.7	
+       1	38252.0	89387.3	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 185.7	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149986.9	94664.9	
+       1	94691.1	150192.9	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149929.6	37948.8	
+       1	38256.3	89403.3	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 185.7	
+       1	 208.3	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	150009.2	94679.8	
+       1	94696.2	150207.8	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.2	 194.7	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149941.3	37948.2	
+       1	38260.2	89389.5	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 185.7	
+       1	 208.4	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	150244.2	94669.1	
+       1	94698.9	150155.3	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 185.7	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149919.4	94652.8	
+       1	94677.9	150230.3	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 185.7	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149937.4	94657.3	
+       1	94680.8	150203.8	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149845.7	37944.8	
+       1	38248.1	89416.7	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 185.7	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149959.7	94679.0	
+       1	94684.1	150232.4	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.7	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149852.6	37954.4	
+       1	38246.6	89370.9	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 185.7	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	150099.7	94655.6	
+       1	94710.5	150183.3	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.8	 234.4	
+       1	 265.2	 194.7	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149806.8	37949.1	
+       1	38247.5	89399.8	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 185.8	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149925.5	94673.8	
+       1	94678.9	150182.7	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.2	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149647.4	37949.3	
+       1	38249.6	89386.3	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 185.8	
+       1	 208.2	 136.9	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	148546.8	94419.6	
+       1	94212.7	150211.2	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.2	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149794.1	37950.8	
+       1	38245.8	89397.6	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149905.9	94669.1	
+       1	94662.8	150195.3	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.2	 194.7	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149820.8	37941.9	
+       1	38248.8	89393.3	
+2GHZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.7	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149924.3	94675.2	
+       1	94671.3	150152.2	
+100HZ bw
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.2	 194.7	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149844.7	37948.1	
+       1	38250.2	89396.1	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149897.8	94661.3	
+       1	94668.2	150187.1	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.2	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149800.0	37947.0	
+       1	38245.8	89419.1	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149921.9	94662.8	
+       1	94667.2	150155.0	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.8	 234.5	
+       1	 265.2	 194.7	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149820.4	37944.7	
+       1	38250.4	89396.4	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149899.9	94648.1	
+       1	94673.6	150188.6	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149822.5	37946.6	
+       1	38244.9	89404.6	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149924.9	94659.2	
+       1	94675.4	150166.0	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149824.8	37946.4	
+       1	38249.0	89394.9	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149908.6	94671.1	
+       1	94668.2	150172.9	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149824.6	37941.7	
+       1	38247.8	89389.9	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149905.9	94673.1	
+       1	94674.8	150196.7	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149811.7	37942.7	
+       1	38252.3	89408.5	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149943.9	94689.3	
+       1	94675.4	150184.2	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149834.6	37946.7	
+       1	38247.9	89389.2	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.7	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149857.2	94658.4	
+       1	94645.8	150103.5	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.2	 194.4	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149815.7	37952.4	
+       1	38246.1	89394.7	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149925.3	94687.0	
+       1	94681.4	150192.9	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149823.8	37950.3	
+       1	38248.0	89415.0	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149921.7	94692.5	
+       1	94663.9	150178.9	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149821.3	37951.4	
+       1	38247.5	89418.2	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149917.9	94674.3	
+       1	94663.3	150205.3	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149835.1	37944.2	
+       1	38248.2	89420.9	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149912.4	94687.3	
+       1	94669.2	150161.7	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149820.0	37945.8	
+       1	38249.6	89404.2	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.7	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149928.0	94668.1	
+       1	94681.3	150195.2	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149834.2	37955.8	
+       1	38253.9	89385.7	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149929.4	94661.5	
+       1	94673.7	150170.1	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149838.2	37945.3	
+       1	38249.1	89392.7	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149890.9	94667.3	
+       1	94671.7	150208.8	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149860.0	37955.4	
+       1	38245.5	89403.7	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149925.3	94665.8	
+       1	94676.3	150171.7	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.7	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149839.5	37952.4	
+       1	38249.6	89399.1	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.7	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149958.7	94675.8	
+       1	94688.5	150184.1	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.5	
+       1	 265.1	 194.6	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149872.9	37950.8	
+       1	38251.2	89399.6	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 186.6	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149956.6	94683.6	
+       1	94674.2	150193.6	
+100MHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.7	 234.4	
+       1	 265.1	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149853.6	37953.8	
+       1	38249.8	89398.8	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 178.7	 286.6	
+       1	 314.3	 194.5	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	88263.9	37920.6	
+       1	37938.6	89404.2	
+2GHZ perf
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --latency_matrix 
+
+Using buffer size of 2000.000MiB
+Measuring idle latencies for sequential access (in ns)...
+		Numa node
+Numa node	     0	     1	
+       0	 114.6	 186.7	
+       1	 208.2	 137.0	
+Intel(R) Memory Latency Checker - v3.11
+Command line parameters: --bandwidth_matrix 
+
+Using buffer size of 183.105MiB/thread for reads and an additional 183.105MiB/thread for writes
+Measuring Memory Bandwidths between nodes within system 
+Bandwidths are in MB/sec (1 MB/sec = 1,000,000 Bytes/sec)
+Using all the threads from each core if Hyper-threading is enabled
+Using Read-only traffic type
+		Numa node
+Numa node	     0	     1	
+       0	149995.2	94677.1	
+       1	94688.8	150190.6	
